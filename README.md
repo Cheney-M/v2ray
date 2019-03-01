@@ -9,3 +9,6 @@
   <br>cd v2ray
   <br>chmod +x install.sh
   <br>./install.sh local
+## 说明
+  <br>233大佬的脚本，以免不可抗力的消失，作为一个备份
+  <br>原网址：https://github.com/233boy/v2ray/wiki/
